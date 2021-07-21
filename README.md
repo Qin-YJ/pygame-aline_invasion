@@ -1,0 +1,2 @@
+# pygame-aline_invasion
+python入门实践之使用pygame编写外星人入侵的游戏
