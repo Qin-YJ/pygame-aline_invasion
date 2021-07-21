@@ -1,5 +1,13 @@
-# pygame-aline_invasion
-python入门实践之使用pygame编写外星人入侵的游戏
+Python Crash Course - Second Edition
+===
 
-代码来源：《Python编程从入门到实践》的第二部分Unit 12——14
-如需使用，请注明以上出处
+A Hands-On, Project-Based Introduction to Programming
+---
+
+This is a collection of resources for [Python Crash Course, Second Edition](http://www.nostarch.com/pythoncrashcourse/), an introductory programming book from [No Starch Press](http://www.nostarch.com) by Eric Matthes. Click here for a [much cleaner version](https://ehmatthes.github.io/pcc_2e/) of these online resources.
+
+If you have any questions about Python Crash Course, feel free to get in touch:
+
+Email: ehmatthes@gmail.com
+
+Twitter: [@ehmatthes](http://twitter.com/ehmatthes/)
